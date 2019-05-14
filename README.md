@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
-Credit card fraud detection using machine learning algorithms - Logistic Regression, Support Vector Machine and Random Forest.
+This project uses machine learning algorithms like Logistic Regression, Support Vector Machine and Random Forest for miususe detection.
+Random undersampling is employed to deal with imbalanced dataset problem. An IEEE style report can be found describing the project in detail.
